@@ -8,9 +8,8 @@ def main():
     print('Existing buckets:')
     for bucket in response['Buckets']:
         print(f'  {bucket["Name"]}')
-        if bucket["Name"].startswith("prod"): {
+        if bucket["Name"].startswith("prod"):
             print(f'bucket starts with prod - {bucket["Name"]}')
-        }
 
 
 if __name__ == '__main__':
