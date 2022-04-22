@@ -35,4 +35,4 @@ def create_lambda_function(func_name, iam_role, func_handler, zip_file):
 
 if __name__ == '__main__':
     create_lambda_function('lambda_img_processor', 'LabRole',
-                           'lambda_handler', './lambda_zip.zip')
+                           'lambda_handler', './lambda_func.zip')
