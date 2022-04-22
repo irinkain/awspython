@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77fb5b21-348c-4f12-8e8a-6610733b74f6" name="Changes" comment="add homework 2 and 3, relocate files">
-      <change afterPath="$PROJECT_DIR$/Homework4/Homework4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework4/error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework4/index.html" afterDir="false" />
+    <list default="true" id="77fb5b21-348c-4f12-8e8a-6610733b74f6" name="Changes" comment="add homework 4">
+      <change afterPath="$PROJECT_DIR$/Homework5/CreateLambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/Homework5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/lambda_zip.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Midterm/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Midterm/Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Midterm/Task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Midterm/Task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Midterm/answers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz/Task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework1/Homework1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework1/Homework1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +29,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -37,19 +51,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Homework3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Midterm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\irina\Desktop\BTU\AwsPython\awspython\Midterm" />
       <recent name="C:\Users\irina\Desktop\BTU\AwsPython\awspython\Homework3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\irina\Desktop\BTU\AwsPython\awspython\Homework5" />
       <recent name="C:\Users\irina\Desktop\BTU\AwsPython\awspython\Homework2" />
       <recent name="C:\Users\irina\Desktop\BTU\AwsPython\awspython\Homework1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Homework4">
-    <configuration name="Homework3.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Homework5">
+    <configuration name="CreateLambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstbotoawsProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework3/Homework3.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework5/CreateLambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework3.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Homework5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstbotoawsProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework3/Homework3.3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework5/Homework5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework3.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstbotoawsProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Midterm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework3/Homework3.4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Midterm/Task2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework3.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstbotoawsProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Midterm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework3/Homework3.5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Midterm/Task3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstbotoawsProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Midterm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework4/Homework4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Midterm/Task4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Homework4" />
-        <item itemvalue="Python.Homework3.5" />
-        <item itemvalue="Python.Homework3.1" />
-        <item itemvalue="Python.Homework3.4" />
-        <item itemvalue="Python.Homework3.3" />
+        <item itemvalue="Python.Homework5" />
+        <item itemvalue="Python.CreateLambda" />
+        <item itemvalue="Python.Task2 (1)" />
+        <item itemvalue="Python.Task4" />
+        <item itemvalue="Python.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649192683565</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add homework 4">
+      <created>1649275546773</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649275546773</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +219,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add homework 2 and 3, relocate files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add homework 2 and 3, relocate files" />
+    <MESSAGE value="add homework 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework 4" />
   </component>
 </project>
