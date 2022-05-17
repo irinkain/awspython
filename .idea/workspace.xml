@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77fb5b21-348c-4f12-8e8a-6610733b74f6" name="Changes" comment="add homework 4">
-      <change afterPath="$PROJECT_DIR$/Homework5/CreateLambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/Homework5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/lambda_zip.zip" afterDir="false" />
+    <list default="true" id="77fb5b21-348c-4f12-8e8a-6610733b74f6" name="Changes" comment="update hw5">
+      <change afterPath="$PROJECT_DIR$/Homework6_7/Homework6_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/Homework9.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Midterm/Task1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Midterm/Task2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Midterm/Task3.py" afterDir="false" />
@@ -12,6 +11,8 @@
       <change afterPath="$PROJECT_DIR$/Midterm/answers.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Quiz/Task1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Quiz/Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz2/Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -203,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649275546773</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add homework 5">
+      <created>1650637991845</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650637991845</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update hw5">
+      <created>1650641872470</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650641872470</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +235,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add homework 2 and 3, relocate files" />
     <MESSAGE value="add homework 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="add homework 4" />
+    <MESSAGE value="add homework 5" />
+    <MESSAGE value="update hw5" />
+    <option name="LAST_COMMIT_MESSAGE" value="update hw5" />
   </component>
 </project>
