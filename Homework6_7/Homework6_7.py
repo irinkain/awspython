@@ -25,6 +25,19 @@ def create_vpc_and_attach_igw():
     create_igw_and_attach(vpc_id)
 
 
+def create_subnet(vpc_id, cidr):
+    response = ec2_client.create_subnet(VpcId=vpc_id, CidrBlock=cidr)
+    subnet = response.get("Subnet")
+    subnet_id = subnet.get("SubnetId")
+    ec2_client.create_tags(
+        Resources=[subnet_id],
+        Tags=[
+            {"Key": "Name", "Value": "Irina'sSubnet"},
+        ],
+    )
+    print(subnet_id)
+
+
 def main():
     create_vpc_and_attach_igw()
 

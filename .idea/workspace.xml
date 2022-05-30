@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77fb5b21-348c-4f12-8e8a-6610733b74f6" name="Changes" comment="update hw5">
-      <change afterPath="$PROJECT_DIR$/Homework6_7/Homework6_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework9/Homework9.py" afterDir="false" />
+    <list default="true" id="77fb5b21-348c-4f12-8e8a-6610733b74f6" name="Changes" comment="add hw6_7 and 9">
+      <change afterPath="$PROJECT_DIR$/Homework10_11/Homework10_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework12_13/Homework1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework12_13/Homework2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework12_13/Homework3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework12_13/Homework4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework12_13/Homework5.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Midterm/Task1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Midterm/Task2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Midterm/Task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/Task4.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Midterm/answers.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Quiz/Task1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Quiz/Task2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Quiz2/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz3/Task1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework6_7/Homework6_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework6_7/Homework6_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +57,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Midterm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Quiz3" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\irina\Desktop\BTU\AwsPython\awspython\Quiz3" />
       <recent name="C:\Users\irina\Desktop\BTU\AwsPython\awspython\Midterm" />
       <recent name="C:\Users\irina\Desktop\BTU\AwsPython\awspython\Homework3" />
     </key>
@@ -218,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650641872470</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add hw6_7 and 9">
+      <created>1652811175773</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652811175773</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +250,7 @@
     <MESSAGE value="add homework 4" />
     <MESSAGE value="add homework 5" />
     <MESSAGE value="update hw5" />
-    <option name="LAST_COMMIT_MESSAGE" value="update hw5" />
+    <MESSAGE value="add hw6_7 and 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw6_7 and 9" />
   </component>
 </project>
